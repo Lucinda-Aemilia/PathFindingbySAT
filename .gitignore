@@ -50,3 +50,7 @@ Temporary Items
 src/*.exe
 src/*.o
 src/*.a
+doc/*.aux
+doc/*.log
+doc/*.log
+doc/*.toc
