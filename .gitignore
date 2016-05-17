@@ -54,3 +54,7 @@ doc/*.aux
 doc/*.log
 doc/*.log
 doc/*.toc
+doc/*.bbl
+doc/*.blg
+doc/*.out
+doc/*.bak
